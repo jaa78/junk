@@ -1,5 +1,7 @@
 """Determine the average discharge rate of each station in a data file
 
+junk
+
 Input file format:
 
 2013-03-22 A 127
