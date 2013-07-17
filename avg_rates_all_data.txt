@@ -1,0 +1,12 @@
+A 3.0
+A 232.333333333
+A 130.0
+A 3.0
+A 232.333333333
+A 130.0
+data_drycreek_2013.txt  A 3.0
+data_littlebearriver_2013.txt  A 232.333333333
+data_loganriver_2013.txt  A 130.0
+data_drycreek_2013.txt  A 3.0
+data_littlebearriver_2013.txt  A 232.333333333
+data_loganriver_2013.txt  A 130.0
